@@ -7,14 +7,14 @@ S. Hui, Q. Guo, X. Geng, and C. Zhang, Multi-Guidance CNNs for Salient Object De
     * python 3.6.13
 2. Train/Test
     * Train
-        * Download the source codes of MGuid-Net, then
+        * Download the source codes of MGuid-Net and the training datasets ([DUTS-TR](http://saliencydetection.net/duts/)), then
         ```python
         Run 'train_MGuid.py'
         ```
         * In our experiments, the batch size is set to 7, and the image size is 352 $\times$ 352. If your hardware is enough, you can increase the batch size and image size to achieve better experimental results.
     * Test
       
-        * Download other testing datasets ([DUT-OMRON](http://saliencydetection.net/dut-omron/), [ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html), [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html), [PASCAL-S](http://www.cbi.gatech.edu/salobj/)) except DUTS-TE provided by us.
+        * Download the testing datasets ([DUTS-TE](http://saliencydetection.net/duts/), [DUT-OMRON](http://saliencydetection.net/dut-omron/), [ECSSD](http://www.cse.cuhk.edu.hk/leojia/projects/hsaliency/dataset.html), [HKU-IS](https://i.cs.hku.hk/~gbli/deep_saliency.html), [PASCAL-S](http://www.cbi.gatech.edu/salobj/)).
         * Set your dataset path, then
         ```python
         Run 'test_MGuid.py'
