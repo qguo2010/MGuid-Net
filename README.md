@@ -1,5 +1,5 @@
 # MGuid-Net
-Code repository for our paper "Multi-Guidance CNNs for Salient Object Detection". [Paper]() is available.
+S. Hui, Q. Guo, X. Geng, and C. Zhang, Multi-Guidance CNNs for Salient Object Detection, Submitted 2022.
 
 # Usage
 1. Environment configurations
