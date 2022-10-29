@@ -1,7 +1,6 @@
 # MGuid-Net
 Code repository for our paper "Multi-Guidance CNNs for Salient Object Detection". [Paper]() is available.
-# Framework
-![architecture](./framwork.png)
+
 # Usage
 1. Environment configurations
     * pytorch 1.8.1
@@ -22,5 +21,3 @@ Code repository for our paper "Multi-Guidance CNNs for Salient Object Detection"
         ```
 3. To facilitate comparison, the pre-computed saliency maps can be obtained from [baidu yun]() (code:).
 
-# Citation
-Coming soon
