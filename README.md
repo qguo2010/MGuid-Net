@@ -1,6 +1,10 @@
 # MGuid-Net
 S. Hui, Q. Guo, X. Geng, and C. Zhang, Multi-Guidance CNNs for Salient Object Detection, *ACM Transactions on Multimedia Computing Communications and Applications*, Accepted, 2022.
 
+# Framework
+![architecture](./framwork.png)
+
+
 # Usage
 1. Environment configurations
     * pytorch 1.8.1
