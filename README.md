@@ -1,5 +1,5 @@
 # MGuid-Net
-S. Hui, Q. Guo, X. Geng, and C. Zhang, Multi-Guidance CNNs for Salient Object Detection, Submitted 2022.
+S. Hui, Q. Guo, X. Geng, and C. Zhang, Multi-Guidance CNNs for Salient Object Detection, *ACM Transactions on Multimedia Computing Communications and Applications*, Accepted, 2022.
 
 # Usage
 1. Environment configurations
