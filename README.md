@@ -23,5 +23,5 @@ S. Hui, Q. Guo, X. Geng, and C. Zhang, Multi-Guidance CNNs for Salient Object De
         ```python
         Run 'test_MGuid.py'
         ```
-3. To facilitate comparison, the pre-computed saliency maps can be obtained from [baidu yun]() (code:).
+3. To facilitate comparison, the pre-computed saliency maps can be obtained from [baidu yun](https://pan.baidu.com/s/16oEoBJ1Jc-gsFox2WeSC-w) (code:k8bh).
 
