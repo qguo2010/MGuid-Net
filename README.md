@@ -1,5 +1,5 @@
 # MGuid-Net
-S. Hui, Q. Guo, X. Geng, and C. Zhang, [Multi-guidance CNNs for salient object detection](https://dl.acm.org/doi/10.1145/3570507), *ACM Transactions on Multimedia Computing Communications and Applications*, Accepted, 2022.
+S. Hui, Q. Guo, X. Geng, and C. Zhang, [Multi-guidance CNNs for salient object detection](https://dl.acm.org/doi/10.1145/3570507), *ACM Transactions on Multimedia Computing Communications and Applications*, vol. 19, no. 3, article 117, Feb. 2023.
 
 # Framework
 ![architecture](./framwork.png)
